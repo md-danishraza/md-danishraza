@@ -13,7 +13,7 @@ Currently pursuing a Bachelor in Vocation Studies SDE at University of Delhi.
 ## 🛠️ Technical Skills
 
 - **Languages:** JavaScript (ES6+), TypeScript, Python, Java
-- **Web Technologies:** HTML5, CSS3, Tailwind, Bootstrap, React.js, Next.js, Node.js, Express.js, Next.js
+- **Web Technologies:** HTML5, CSS3, Tailwind, Bootstrap, React.js, Next.js, Node.js, Express.js
 - **Databases:** PostgreSQL, MongoDB
 - **Tools & Platforms:** Git, GitHub, Docker, AWS, Postman
 - **Concepts:** DSA with TypeScript, REST APIs, GraphQL
@@ -33,7 +33,7 @@ G.B.S.S.S. Molarband, New Delhi (2021-23)
 
 ## 🌐 Find Me Online
 
-- [Portfolio](https://md-danish-raza.netlify.app)
+- [Portfolio](https://md-danishraza.netlify.app)
 - [LinkedIn](https://linkedin.com/in/md-danish-raza-2039b5276)
 - [GitHub](https://github.com/md-danishraza)
 
