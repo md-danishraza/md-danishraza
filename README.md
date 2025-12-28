@@ -43,7 +43,7 @@ G.B.S.S.S. Molarband, New Delhi (2021-23)
 - HandsOn Reactjs, Nextjs course
 
 ## 📊 Projects
-
+- [ProLearn (LMS)](https://github.com/md-danishraza?tab=repositories&q=LMS)
 - **Web Development Portfolio**: Full-stack MERN applications, authentication, responsive UIs, CRUD, versioning and documentation
 - **Python Data Analysis & ML**: Visualizations, dashboards, model training and prediction with Pandas, Matplotlib, Seaborn
 
