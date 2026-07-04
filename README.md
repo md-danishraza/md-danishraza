@@ -1,5 +1,3 @@
-## MD. DANISH RAZA
-
 ### Full-Stack Developer | AI/ML Enthusiast | Exlporing Cloud Architecture | Scaling
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://md-danishraza.vercel.app)
@@ -30,7 +28,7 @@ const danish = {
 
 ### GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=md-danishraza&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-danishraza&hide_border=true&theme=radical" alt="GitHub Streak" width="48%" />
 </div>
@@ -38,7 +36,15 @@ const danish = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-danishraza&layout=compact&hide_border=true&theme=radical" alt="Top Languages" width="40%" />
   <img src="https://github-profile-trophy.vercel.app/?username=md-danishraza&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" width="55%" />
-</div>
+</div> -->
+
+#### Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=md-danishraza&hide_border=true&theme=radical)](https://github.com/md-danishraza)
+
+#### Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=md-danishraza&theme=react-dark&hide_border=true&area=true)](https://github.com/md-danishraza)
 
 ---
 
@@ -81,40 +87,34 @@ const danish = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Featured Projects
+## Featured Projects
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/md-danishraza/UrbanKey">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=md-danishraza&repo=UrbanKey&theme=radical&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/md-danishraza/atlascub-client">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=md-danishraza&repo=Atlascub&theme=radical&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/md-danishraza/lms-frontend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=md-danishraza&repo=lms-frontend&theme=radical&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/md-danishraza">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=md-danishraza&repo=md-danishraza&theme=radical&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+### [Atlascub - Ecommerce](https://github.com/md-danishraza/atlascub-client)
+
+> Fashion E-Commerce Platform
+
+- Advanced product search & filtering
+- Redis caching & inventory management
+- 🔗 [View Repository](https://github.com/md-danishraza/atlascub-client)
+
+#### [UrbanKey - Real Estate Rental App](https://github.com/md-danishraza/UrbanKey)
+
+> AI-Powered Rental Marketplace
+
+- PostgreSQL geospatial search | RAG & Vector Embeddings
+- LLM-powered property assistance
+- 🔗 [View Repository](https://github.com/md-danishraza/UrbanKey)
+
+### [ProLearn - LMS](https://github.com/md-danishraza/lms-frontend)
+
+> Mentorship & Learning Platform
+> One-to-One Video Mentorship
+
+- Role-based authorization | AWS integration
+- Content delivery & user management
+- 🔗 [View Repository](https://github.com/md-danishraza/lms-frontend)
 
 ---
-
-### Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=md-danishraza&theme=react-dark&hide_border=true&area=true)
 
 ### 🏆 Achievements
 
