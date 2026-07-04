@@ -1,10 +1,10 @@
 ### Full-Stack Developer | AI/ML Enthusiast | Exlporing Cloud Architecture | Scaling
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://md-danishraza.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-danishraza)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://md-danishraza.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-danish-raza-2039b5276)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-danishraza)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/md-danishraza)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.danishraza@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.danish0raza@gmail.com)
 
 ---
 
@@ -97,7 +97,7 @@ const danish = {
 - Redis caching & inventory management
 - 🔗 [View Repository](https://github.com/md-danishraza/atlascub-client)
 
-#### [UrbanKey - Real Estate Rental App](https://github.com/md-danishraza/UrbanKey)
+### [UrbanKey - Real Estate Rental App](https://github.com/md-danishraza/UrbanKey)
 
 > AI-Powered Rental Marketplace
 
@@ -205,7 +205,7 @@ interests:
 ### How to reach me
 
 - Email: **md.danish0raza@gmail.com**
-- LinkedIn: [@md-danish-raza](https://linkedin.com/in/md-danish-raza-2039b5276)
+- LinkedIn: [@md-danish-raza-2039b5276](https://linkedin.com/in/md-danish-raza-2039b5276)
 - Portfolio: [md-danishraza.netlify.app](https://md-danishraza.netlify.app)
 
 <details>
